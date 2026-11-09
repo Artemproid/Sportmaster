@@ -1,0 +1,399 @@
+[
+ {
+  "id": 1,
+  "cat": "shoes",
+  "name": "Кроссовки мужские Nike Air Jordan 1",
+  "price": 15999,
+  "old_price": 18999,
+  "brand": "Nike",
+  "rating": 4.8,
+  "reviews": 66,
+  "photos": [
+   "p1_0.jpg",
+   "p1_1.jpg",
+   "p1_2.jpg",
+   "p1_3.jpg"
+  ]
+ },
+ {
+  "id": 2,
+  "cat": "shoes",
+  "name": "Кроссовки мужские Puma Future Rider",
+  "price": 8999,
+  "old_price": null,
+  "brand": "Puma",
+  "rating": 4.9,
+  "reviews": 140,
+  "photos": [
+   "p2_0.jpg",
+   "p2_1.jpg",
+   "p2_2.jpg",
+   "p2_3.jpg"
+  ]
+ },
+ {
+  "id": 3,
+  "cat": "shoes",
+  "name": "Кеды мужские Off White Sport",
+  "price": 12499,
+  "old_price": 14999,
+  "brand": "Off White",
+  "rating": 4.8,
+  "reviews": 177,
+  "photos": [
+   "p3_0.jpg",
+   "p3_1.jpg",
+   "p3_2.jpg",
+   "p3_3.jpg"
+  ]
+ },
+ {
+  "id": 4,
+  "cat": "shoes",
+  "name": "Кроссовки Off White Red Line",
+  "price": 11999,
+  "old_price": null,
+  "brand": "Off White",
+  "rating": 4.7,
+  "reviews": 214,
+  "photos": [
+   "p4_0.jpg",
+   "p4_1.jpg",
+   "p4_2.jpg",
+   "p4_3.jpg"
+  ]
+ },
+ {
+  "id": 5,
+  "cat": "shoes",
+  "name": "Бутсы бейсбольные Nike Cleats",
+  "price": 6999,
+  "old_price": 8499,
+  "brand": "Nike",
+  "rating": 3.9,
+  "reviews": 103,
+  "photos": [
+   "p5_0.jpg",
+   "p5_1.jpg",
+   "p5_2.jpg",
+   "p5_3.jpg"
+  ]
+ },
+ {
+  "id": 6,
+  "cat": "shoes",
+  "name": "Туфли женские Red Step",
+  "price": 4599,
+  "old_price": null,
+  "brand": "Fashion Express",
+  "rating": 3.2,
+  "reviews": 203,
+  "photos": [
+   "p6_0.jpg",
+   "p6_1.jpg",
+   "p6_2.jpg",
+   "p6_3.jpg"
+  ]
+ },
+ {
+  "id": 7,
+  "cat": "clothes",
+  "name": "Футболка мужская Aorus",
+  "price": 1999,
+  "old_price": 2499,
+  "brand": "Gigabyte",
+  "rating": 3.2,
+  "reviews": 318,
+  "photos": [
+   "p7_0.jpg",
+   "p7_1.jpg",
+   "p7_2.jpg",
+   "p7_3.jpg"
+  ]
+ },
+ {
+  "id": 8,
+  "cat": "clothes",
+  "name": "Рубашка мужская с коротким рукавом",
+  "price": 2799,
+  "old_price": null,
+  "brand": "Casual Comfort",
+  "rating": 2.9,
+  "reviews": 392,
+  "photos": [
+   "p8_0.jpg",
+   "p8_1.jpg",
+   "p8_2.jpg",
+   "p8_3.jpg"
+  ]
+ },
+ {
+  "id": 9,
+  "cat": "clothes",
+  "name": "Рубашка в клетку Blue & Black",
+  "price": 3299,
+  "old_price": 3999,
+  "brand": "Fashion Trends",
+  "rating": 3.6,
+  "reviews": 281,
+  "photos": [
+   "p9_0.jpg",
+   "p9_1.jpg",
+   "p9_2.jpg",
+   "p9_3.jpg"
+  ]
+ },
+ {
+  "id": 10,
+  "cat": "clothes",
+  "name": "Рубашка мужская Plaid",
+  "price": 2999,
+  "old_price": null,
+  "brand": "Classic Wear",
+  "rating": 3.5,
+  "reviews": 355,
+  "photos": [
+   "p10_0.jpg",
+   "p10_1.jpg",
+   "p10_2.jpg",
+   "p10_3.jpg"
+  ]
+ },
+ {
+  "id": 11,
+  "cat": "clothes",
+  "name": "Рубашка мужская Check",
+  "price": 3499,
+  "old_price": 4299,
+  "brand": "Urban Chic",
+  "rating": 2.7,
+  "reviews": 29,
+  "photos": [
+   "p11_0.jpg",
+   "p11_1.jpg",
+   "p11_2.jpg",
+   "p11_3.jpg"
+  ]
+ },
+ {
+  "id": 12,
+  "cat": "balls",
+  "name": "Мяч футбольный Classic",
+  "price": 1999,
+  "old_price": 2499,
+  "brand": "Stridex",
+  "rating": 3.3,
+  "reviews": 249,
+  "photos": [
+   "p12_0.jpg"
+  ]
+ },
+ {
+  "id": 13,
+  "cat": "balls",
+  "name": "Мяч баскетбольный Street",
+  "price": 2499,
+  "old_price": null,
+  "brand": "Stridex",
+  "rating": 4.7,
+  "reviews": 390,
+  "photos": [
+   "p13_0.jpg"
+  ]
+ },
+ {
+  "id": 14,
+  "cat": "balls",
+  "name": "Мяч волейбольный Beach",
+  "price": 1799,
+  "old_price": 2199,
+  "brand": "Aerona",
+  "rating": 3.8,
+  "reviews": 71,
+  "photos": [
+   "p14_0.jpg"
+  ]
+ },
+ {
+  "id": 15,
+  "cat": "balls",
+  "name": "Мяч для американского футбола",
+  "price": 2299,
+  "old_price": null,
+  "brand": "Kinetra",
+  "rating": 4.9,
+  "reviews": 279,
+  "photos": [
+   "p15_0.jpg"
+  ]
+ },
+ {
+  "id": 16,
+  "cat": "balls",
+  "name": "Мячи теннисные, 3 шт",
+  "price": 599,
+  "old_price": 799,
+  "brand": "Velaro",
+  "rating": 4.1,
+  "reviews": 397,
+  "photos": [
+   "p16_0.jpg"
+  ]
+ },
+ {
+  "id": 17,
+  "cat": "balls",
+  "name": "Мяч бейсбольный",
+  "price": 499,
+  "old_price": null,
+  "brand": "Kinetra",
+  "rating": 2.6,
+  "reviews": 316,
+  "photos": [
+   "p17_0.jpg"
+  ]
+ },
+ {
+  "id": 18,
+  "cat": "gear",
+  "name": "Ракетка теннисная Pro Tour",
+  "price": 7499,
+  "old_price": 8999,
+  "brand": "Velaro",
+  "rating": 4.0,
+  "reviews": 34,
+  "photos": [
+   "p18_0.jpg"
+  ]
+ },
+ {
+  "id": 19,
+  "cat": "gear",
+  "name": "Перчатка бейсбольная",
+  "price": 3999,
+  "old_price": null,
+  "brand": "Kinetra",
+  "rating": 4.0,
+  "reviews": 353,
+  "photos": [
+   "p19_0.jpg",
+   "p19_1.jpg",
+   "p19_2.jpg"
+  ]
+ },
+ {
+  "id": 20,
+  "cat": "gear",
+  "name": "Воланы перьевые, 6 шт",
+  "price": 899,
+  "old_price": 1099,
+  "brand": "Aerona",
+  "rating": 2.9,
+  "reviews": 212,
+  "photos": [
+   "p20_0.jpg"
+  ]
+ },
+ {
+  "id": 21,
+  "cat": "gear",
+  "name": "Шлем защитный для крикета",
+  "price": 5499,
+  "old_price": null,
+  "brand": "Polarfox",
+  "rating": 4.7,
+  "reviews": 138,
+  "photos": [
+   "p21_0.jpg",
+   "p21_1.jpg",
+   "p21_2.jpg",
+   "p21_3.jpg"
+  ]
+ },
+ {
+  "id": 22,
+  "cat": "gear",
+  "name": "Бита бейсбольная металлическая",
+  "price": 3299,
+  "old_price": 3799,
+  "brand": "Kinetra",
+  "rating": 4.7,
+  "reviews": 360,
+  "photos": [
+   "p22_0.jpg"
+  ]
+ },
+ {
+  "id": 23,
+  "cat": "gear",
+  "name": "Кольцо баскетбольное с сеткой",
+  "price": 4299,
+  "old_price": null,
+  "brand": "Stridex",
+  "rating": 4.6,
+  "reviews": 27,
+  "photos": [
+   "p23_0.jpg"
+  ]
+ },
+ {
+  "id": 24,
+  "cat": "acc",
+  "name": "Рюкзак городской белый",
+  "price": 4999,
+  "old_price": 5999,
+  "brand": "Urban Chic",
+  "rating": 3.4,
+  "reviews": 85,
+  "photos": [
+   "p24_0.jpg",
+   "p24_1.jpg",
+   "p24_2.jpg"
+  ]
+ },
+ {
+  "id": 25,
+  "cat": "acc",
+  "name": "Очки солнцезащитные Black",
+  "price": 1999,
+  "old_price": null,
+  "brand": "Fashion Shades",
+  "rating": 4.4,
+  "reviews": 108,
+  "photos": [
+   "p25_0.jpg",
+   "p25_1.jpg",
+   "p25_2.jpg"
+  ]
+ },
+ {
+  "id": 26,
+  "cat": "acc",
+  "name": "Очки спортивные Sunglasses",
+  "price": 2499,
+  "old_price": 2999,
+  "brand": "Fashion Shades",
+  "rating": 3.0,
+  "reviews": 256,
+  "photos": [
+   "p26_0.jpg",
+   "p26_1.jpg",
+   "p26_2.jpg"
+  ]
+ },
+ {
+  "id": 27,
+  "cat": "acc",
+  "name": "Часы с кожаным ремешком",
+  "price": 6999,
+  "old_price": null,
+  "brand": "Fashion Timepieces",
+  "rating": 4.2,
+  "reviews": 251,
+  "photos": [
+   "p27_0.jpg",
+   "p27_1.jpg",
+   "p27_2.jpg"
+  ]
+ }
+]
